@@ -3,6 +3,7 @@
 - 🌱 I recently completed a Data Engineering in Python course from DataCamp.
 - 💞️ I’m looking to collaborate on Python-related libraries and projects.
 - 📫 You can reach me on [LinkedIn](https://pk.linkedin.com/in/huzaifazahoor654).
+- 📝 Check out my technical writing on [Medium](https://medium.com/@huzaifazahoor654) for articles related to data engineering and other technical topics.
 - 🦖 I'm currently working as a Software Engineer in MLSense and actively seeking remote Data Engineering opportunities.
 
 ## About Me
