@@ -1,52 +1,122 @@
-- 👋 Hi, I’m @huzaifazahoor
-- 👀 I’m interested in Data Engineering and AI-powered financial tools.
-- 🌱 I recently founded Meyka, an AI-powered stock research assistant and we are raising funds as well. You can see our pitch deck at https://meyka.com/pitch-deck/
-- 💞️ I’m looking to collaborate on Python-related libraries, AI projects, and data engineering solutions.
-- 📫 You can reach me on [LinkedIn](https://pk.linkedin.com/in/huzaifazahoor654).
-- 📝 Check out my technical writing on [Medium](https://medium.com/@huzaifazahoor654) for articles related to data engineering, AI, and other technical topics.
-- 🦖 I'm currently working as the Technical Co-Founder of Meyka and open to collaborations and new opportunities.
+Hi, I’m Huzaifa 👋  
+📍 Pakistan  
+Software Engineer | Fintech | Data | AI  
 
-## About Me
+I build real products in fintech, data, and AI.  
+I focus on systems that run in production and have users.
 
-I'm a Software & Data Engineer and the founder of Meyka, an AI-powered stock research assistant that helps investors make informed decisions. With a strong background in Python, cloud technologies, and data engineering, I have led the development of innovative financial tools and solutions. My expertise includes building data pipelines, optimizing processes, and developing web applications using frameworks like Django and React. Through Meyka, I aim to revolutionize the way investors interact with stock market data, providing real-time analysis and insights.
+---
 
-## Skills
+## Highlight
 
-- Python
-- Django
-- React JS
-- Langchain
-- Flask
-- Bootstrap
-- Apache Airflow
-- Data Modeling
-- Data Pipelines
-- SQL
-- ETL
-- Big Data Technologies
-- Cloud Platforms (AWS & GCP)
+### Meyka AI  
+🌐 https://meyka.com  
 
-## Projects
+AI-powered stock research platform.  
+Used by hundreds of thousands of investors every month.
 
-Here are a few notable projects I've worked on:
+What I built:
+- AI stock analysis and grading systems  
+- Stock screeners and forecasting tools  
+- Finance chatbots using GPT-based models  
+- Large-scale data pipelines  
+- Cloud infrastructure on AWS and GCP  
 
-1. **Meyka - AI-powered Stock Research Assistant**: Founded and built an AI-powered stock research assistant using ChatGPT API for major international markets.
-   - Led a team of 8 people, including developers and marketers.
-   - Managed cloud services on GCP with 0% downtime with cost-effective solutions.
-   - Created tools like stock screeners and stock price forecasting for 2000 monthly traffic.
-   - Focused on accuracy and performance based on user feedback.
+Role:
+- Co-Founder and Technical Lead  
+- Led backend, data, and AI systems  
+- Managed and scaled the full tech stack  
 
-2. **Real-time Stock Market WhatsApp Chatbot**: Developed a chatbot for the Saudi Exchange using OpenAI's GPT API with 100% uptime on the cloud.
-   - Implemented real-time stock market updates and analysis.
+This is my most impactful work so far.
 
-3. **Automated ETL Pipeline**: Architected a scalable data pipeline on AWS Glue with Python.
-   - Automated data extraction, transformation, and loading processes from multiple sources.
+---
 
-4. **Video Transcription Bot**: Automated transcription of 5TB of video courses into text using Deepgram API and uploading transcripts into Google Sheets.
-   - Facilitated easy access to educational content.
+## Current Projects
 
-Feel free to explore my GitHub repositories for more projects and code samples.
+### Luqma  
+🌐 https://luqma.site  
 
-## Get in Touch
+Food discovery app.  
+Helps people find good food without noise.
 
-If you have any questions, collaboration proposals, or job opportunities, please don't hesitate to reach out to me on [LinkedIn](https://pk.linkedin.com/in/huzaifazahoor654). I'm open to remote Data Engineering roles and excited to tackle new challenges in the field.
+Status:
+- Actively building
+
+---
+
+### SalaryScout  
+🌐 Live  
+
+Salary transparency platform.  
+People share what they actually earn.
+
+Why:
+- No fake salary ranges  
+- Real data from real people  
+- Built to help fair pay  
+
+Status:
+- Live and collecting data
+
+---
+
+## On Hold
+
+### Paiker  
+🌐 https://paiker.site  
+
+Stripe-style payments platform for Pakistan.
+
+Why paused:
+- Found a better local alternative  
+- SBP license requires ~200M PKR cash  
+
+Status:
+- Site live  
+- Product on hold
+
+---
+
+## Systems I’ve Built
+
+- AI stock analysis engines  
+- Stock market chatbots with 100% uptime  
+- Large-scale ETL pipelines on AWS Glue  
+- Financial data scraping and processing systems  
+- Stock forecasting models  
+- Real-time trading and analytics systems  
+- Automation pipelines for content and ops  
+
+---
+
+## Background
+
+- 4+ years in fintech and data  
+- 20+ products shipped  
+- Worked with clients in US, UK, Canada, Australia, Saudi Arabia  
+- Built systems used by real users at scale  
+
+---
+
+## Tech I Use
+
+Python  
+Django  
+SQL  
+Data Engineering  
+AI and ML  
+AWS and GCP  
+
+---
+
+## Belief
+
+Payments, data, and markets are infrastructure.  
+If the base is weak, products fail.  
+I build strong bases.
+
+---
+
+📫 LinkedIn: https://linkedin.com/in/huzaifazahoor654  
+📝 Writing: https://medium.com/@huzaifazahoor654  
+🌐 Portfolio: https://huzaifazahoor.github.io/
