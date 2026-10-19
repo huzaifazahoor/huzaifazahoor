@@ -17,7 +17,7 @@ I build backend systems, data pipelines, and AI tools, mostly for the stock mark
 
 ## 💫 About Me
 
-🔭 I'm currently working on small projects that rebuild big system ideas: a Kafka-style log, RAG, Bloom filters, and more<br>
+🔭 I'm currently working on small projects that rebuild big system ideas: a mini Kafka, a mini WhatsApp, and Postgres replication labs<br>
 👯 I'm looking to collaborate on stock market tools, data pipelines, and AI research apps<br>
 🤝 I'm looking for feedback on my system design builds<br>
 🌱 I'm currently learning system design and new tech by building it: Kubernetes, dbt, GraphQL, and more<br>
@@ -39,7 +39,6 @@ I build backend systems, data pipelines, and AI tools, mostly for the stock mark
 | Project | What it is | Status |
 |---|---|---|
 | [Meyka AI](https://meyka.com) | AI stock research platform for 60,000+ stocks and cryptos across 10 markets. Built from the first line of code to 800K monthly users. | 🟢 Live |
-| [pine_ta](https://pypi.org/project/pine-ta/) | Python package with technical indicators in pure pandas and numpy, inspired by Pine Script. | 🟢 Live |
 | [SalaryScout](https://salary-scout.com) | Salary research tool with real developer pay data. | 🟢 Live |
 | [Luqma](https://luqma.site) | Food discovery app that shows signal, not noise. | 🟢 Live |
 | [Paiker](https://paiker.site) | Stripe-style payments platform for Pakistan. | ⏸️ On hold |
@@ -62,14 +61,24 @@ I read about a system, then build it to learn how it really works.
 
 | Build | What I learned |
 |---|---|
-| [Kafka from scratch](#) | Kafka is a log, not a queue. Built the broker, partitions, offsets, and replay in Python. |
-| [GraphQL Stock API](#) | Fixed N+1 with DataLoader (13 queries down to 2), plus depth and cost limits. |
-| [Django on Kubernetes](#) | Rolling deploys with zero failed requests, auto scaling from 2 to 6 pods, Prometheus and Grafana. |
-| [dbt Project](#) | Models, tests, incremental loads, and the bugs that come with them. |
-| [Local RAG Chatbot](#) | Ollama, ChromaDB, and embeddings over 1,000+ blog articles. |
-| [Elasticsearch Search](#) | Inverted index search over 1,000 articles in 8 ms. |
-| [Bloom Filter](#) | Username checks in memory without hitting the database. |
-| [Idempotent Payments](#) | Why Redis alone fails under fast clicks, and why a unique key in the database works. |
+| [mini-kafka](https://github.com/huzaifazahoor/mini-kafka) | Kafka is a log, not a queue. Built the append-only log, partitions, offsets, and replay in Python. |
+| [django-graphql-kubernetes](https://github.com/huzaifazahoor/django-graphql-kubernetes) | GraphQL stock API on a local Kubernetes cluster. Fixed N+1 (13 queries down to 2), auto scaling from 2 to 6 pods, rolling deploys with zero failed requests. |
+| [fuel-route-planner-api](https://github.com/huzaifazahoor/fuel-route-planner-api) | Plans a US truck trip with the cheapest fuel stops. A grid index cuts millions of distance checks, with one routing API call per trip. |
+| [mini-whatsapp](https://github.com/huzaifazahoor/mini-whatsapp) | Real-time chat with WebSockets and a Redis queue that delivers missed messages when users come back online. |
+| [idempotency-key-demo](https://github.com/huzaifazahoor/idempotency-key-demo) | Why Redis alone lets double payments through under fast clicks, and how a database unique key stops them. |
+| [postgres-read-replica-lab](https://github.com/huzaifazahoor/postgres-read-replica-lab) | Leader and replica in Docker, async vs sync replication, and an index that took a query from 747 ms to 0.08 ms. |
+| [postgres-gist-500m](https://github.com/huzaifazahoor/postgres-gist-500m) | GiST spatial indexing on 500M geo points, with before and after benchmarks for box, circle, polygon, and nearest neighbor search. |
+
+## 🛠️ Open Source Tools
+
+| Tool | What it does |
+|---|---|
+| [pine_ta](https://github.com/huzaifazahoor/pine_ta) | Technical indicators in pure pandas and numpy, inspired by Pine Script. No TA-Lib. On [PyPI](https://pypi.org/project/pine-ta/). |
+| [mona-bot](https://github.com/huzaifazahoor/mona-bot) | Local CLI stock research assistant that pulls Yahoo Finance data and gives AI analysis. |
+| [meyka-stock-chatbot-demo](https://github.com/huzaifazahoor/meyka-stock-chatbot-demo) | Simple stock AI chatbot on the Meyka API, with live data, grades, and forecasts. |
+| [linked-roast](https://github.com/huzaifazahoor/linked-roast) | Honest LinkedIn profile auditor powered by Claude. |
+| [linkedin-post-copier-extension](https://github.com/huzaifazahoor/linkedin-post-copier-extension) | Browser extension that copies your LinkedIn posts as clean text with their stats. |
+| [stock-price-forecast](https://github.com/huzaifazahoor/stock-price-forecast) | Stock price forecasting with Prophet. |
 
 ---
 
