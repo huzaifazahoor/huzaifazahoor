@@ -61,8 +61,10 @@ I read about a system, then build it to learn how it really works.
 
 | Build | What I learned |
 |---|---|
+| [kafka-flink-crypto-pipeline](https://github.com/huzaifazahoor/kafka-flink-crypto-pipeline) | Live Binance trades through Kafka into Flink SQL and PyFlink for 1-minute candles and price alerts. Checkpoints and exactly-once delivery meant crash tests lost no data and made no duplicates. |
 | [mini-kafka](https://github.com/huzaifazahoor/mini-kafka) | Kafka is a log, not a queue. Built the append-only log, partitions, offsets, and replay in Python. |
 | [django-graphql-kubernetes](https://github.com/huzaifazahoor/django-graphql-kubernetes) | GraphQL stock API on a local Kubernetes cluster. Fixed N+1 (13 queries down to 2), auto scaling from 2 to 6 pods, rolling deploys with zero failed requests. |
+| [terraform-ecs-fargate-rds](https://github.com/huzaifazahoor/terraform-ecs-fargate-rds) | 32 AWS resources in Terraform: any Python API on ECS Fargate with RDS behind a load balancer, load tested with k6, and removed with one command. |
 | [fuel-route-planner-api](https://github.com/huzaifazahoor/fuel-route-planner-api) | Plans a US truck trip with the cheapest fuel stops. A grid index cuts millions of distance checks, with one routing API call per trip. |
 | [mini-whatsapp](https://github.com/huzaifazahoor/mini-whatsapp) | Real-time chat with WebSockets and a Redis queue that delivers missed messages when users come back online. |
 | [idempotency-key-demo](https://github.com/huzaifazahoor/idempotency-key-demo) | Why Redis alone lets double payments through under fast clicks, and how a database unique key stops them. |
