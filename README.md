@@ -39,6 +39,7 @@ I build backend systems, data pipelines, and AI tools, mostly for the stock mark
 | Project | What it is | Status |
 |---|---|---|
 | [Meyka AI](https://meyka.com) | AI stock research platform for 60,000+ stocks and cryptos across 10 markets. Built from the first line of code to 800K monthly users. | 🟢 Live |
+| [NutshellCrypto](https://nutshellcrypto.com) | Crypto news site with daily news, plain-English guides, and free tools. I run the WordPress build, content, SEO, and backlinks. | 🟢 Live |
 | [SalaryScout](https://salary-scout.com) | Salary research tool with real developer pay data. | 🟢 Live |
 | [Luqma](https://luqma.site) | Food discovery app that shows signal, not noise. | 🟢 Live |
 | [Paiker](https://paiker.site) | Stripe-style payments platform for Pakistan. | ⏸️ On hold |
